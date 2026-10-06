@@ -6,7 +6,7 @@
 """
 
 # Количество знаков после запятой при выводе результата
-PRECISION = 3
+PRECISION = 2
 
 
 def read_positive_int(prompt):
